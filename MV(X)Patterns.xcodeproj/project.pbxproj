@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06DA64CF2718A8D700378B70 /* GreetingPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DA64CE2718A8D700378B70 /* GreetingPresenter.swift */; };
 		A8C933B825C6C91D00E07B66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C933B725C6C91D00E07B66 /* AppDelegate.swift */; };
 		A8C933BA25C6C91D00E07B66 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C933B925C6C91D00E07B66 /* SceneDelegate.swift */; };
 		A8C933BF25C6C91D00E07B66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8C933BD25C6C91D00E07B66 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		06DA64CE2718A8D700378B70 /* GreetingPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingPresenter.swift; sourceTree = "<group>"; };
 		A8C933B425C6C91D00E07B66 /* MV(X)Patterns.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MV(X)Patterns.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8C933B725C6C91D00E07B66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8C933B925C6C91D00E07B66 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				A8C933B725C6C91D00E07B66 /* AppDelegate.swift */,
 				A8C933B925C6C91D00E07B66 /* SceneDelegate.swift */,
 				A8C933CF25C6C99000E07B66 /* GreetingViewController.swift */,
+				06DA64CE2718A8D700378B70 /* GreetingPresenter.swift */,
 				A8C933CC25C6C98700E07B66 /* Person.swift */,
 				A8C933BD25C6C91D00E07B66 /* Main.storyboard */,
 				A8C933C025C6C91F00E07B66 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8C933B825C6C91D00E07B66 /* AppDelegate.swift in Sources */,
+				06DA64CF2718A8D700378B70 /* GreetingPresenter.swift in Sources */,
 				A8C933CD25C6C98700E07B66 /* Person.swift in Sources */,
 				A8C933D025C6C99000E07B66 /* GreetingViewController.swift in Sources */,
 				A8C933BA25C6C91D00E07B66 /* SceneDelegate.swift in Sources */,
